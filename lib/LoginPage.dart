@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_google_sign_in/SignIn.dart';
 import 'package:flutter_google_sign_in/SuccessScreen.dart';
 
